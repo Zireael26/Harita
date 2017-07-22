@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Harita</string>
+    <string name="Rate">Price per kg</string>
+    <string name="Weight">Weight in grams</string>
+    <string name="Cost">Cost of item</string>
+    <string name="rateinput">Rate</string>
+    <string name="commodityInput">Commodity</string>
+    <string name="ratePerKg">Rates</string>
+    <string name="orderSummary">Order Summary</string>
+    <string name="textRateInput">Rate</string>
+    <string name="Shop">Shop</string>
+    <string name="Bill">Checkout</string>
+    <string name="action_settings">Settings</string>
+</resources>
